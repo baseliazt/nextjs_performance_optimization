@@ -3,9 +3,12 @@ Next.js is a powerful React framework that delivers exceptional performance out 
 
 ## Categorization
 Guidelines for Categorization:
-Critical: Anything that is above-the-fold or core to the page's purpose.
-Non-Critical: Enhancements that improve UX but can wait for the initial content to load.
-Conditionally Loaded: Components that depend on user actions or specific conditions.
-Heavy: Components with large dependencies or complex computations.
+
+| Component Type | Description |
+|----------|----------|
+| Critical Component | Anything that is above-the-fold or core to the page's purpose. |
+| Non Critical Component | Enhancements that improve UX but can wait for the initial content to load. |
+| Conditional Component | Components that depend on user actions or specific conditions. |
+| Heavy Component | Components with large dependencies or complex computations. |
 
 @baseliazt
