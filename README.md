@@ -8,7 +8,10 @@ Guidelines for Categorization:
 |----------|----------|
 | Critical Component | Anything that is above-the-fold or core to the page's purpose. |
 | Non Critical Component | Enhancements that improve UX but can wait for the initial content to load. |
-| Conditional Component | Components that depend on user actions or specific conditions. |
-| Heavy Component | Components with large dependencies or complex computations. |
+
+**Non Critical Component**
+- Enhancements that improve UX but can wait for the initial content to load. 
+- Conditional Component
+- Heavy Component that requires large dependencies or complex computations
 
 @baseliazt
